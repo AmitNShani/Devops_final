@@ -57,21 +57,22 @@
 		<div class="carousel-item active">
 			<img class="d-block" src="./assets/img/main.jpg" alt="First slide">
 			<div class="carousel-caption d-md-block text-top">
-				<h1>Welcome to Turkish Airlines!</h1>
+				<h1>Devops final project</h1>
 			</div>
 		</div>
 		
 		<div class="carousel-item">
 			<img class="d-block img-fluid" src="./assets/img/galaxy.jpg" alt="Second slide">
 			<div class="carousel-caption d-md-block">
-				<h1>Where do you want to explore?</h1>
+				<h1>submitted by: :)</h1>
 			</div>
 		</div>
     
 		<div class="carousel-item">
 			<img class="d-block img-fluid" src="./assets/img/milky.jpg" alt="Third slide">
 			<div class="carousel-caption d-md-block">
-				<h1>Awarded the best European Airlines for 2011-16!</h1>
+				<h1>Imevet Checol</h1>
+				<h1>& Amit Shani</h1>
 			</div>
 		</div>
 	</div>
@@ -88,7 +89,8 @@
 	</div>
 
 
-                <jsp:include page="Templates/Footer.jsp"/>
+     <jsp:include page="Templates/Footer.jsp"/>
+
     
     <!-- Bootstrap core JavaScript
     ================================================== -->
